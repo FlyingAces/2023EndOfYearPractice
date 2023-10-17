@@ -7,6 +7,7 @@
 #include <frc2/command/CommandPtr.h>
 #include <frc2/command/SubsystemBase.h>
 
+
 class ExampleSubsystem : public frc2::SubsystemBase {
  public:
   ExampleSubsystem();
